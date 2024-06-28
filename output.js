@@ -4,6 +4,12 @@
   _0x2cb0eb.feedback = "有问题请联系QQ 84034666";
 })(window, document);
 _0xodA = "jsjiami.com.v6";
+(function (_0x24aa09, _0x2cb0eb) {
+  _0x24aa09.update = "2019年09月07日15:24:29更新";
+  _0x2cb0eb.info = "这个是一个本站对JavaScript 脚本的一个高级加密，兼容性较强";
+  _0x2cb0eb.feedback = "有问题请联系QQ 84034666";
+})(window, document);
+_0xodA = "jsjiami.com.v6";
 const _0x433672 = _0x52b7;
 function _0x5de7() {
   const _0x472fc0 = ["ERVER", "a8935", "follo", "Topic", "FHesN", "task", "UwcpT", "oin_a", "共获取到", "rejec", "/app/", "ern", "66130", "getTi", "wzfnc", "paign", "got", "f0123", "oints", "InLin", "nMsg", "ypGPw", "appen", "ign", "45678", "查询气泡奖", "XLamO", "bnwVR", "be444", "0|8|9", "tpt", "lCoin", "Reque", "confi", "jfXyW", "getMi", "servi", "e Mac", "]奖励失败", "16_1_", "conso", "气泡奖励", "opic", "bb4f7", "isPar", "des", "gHjvx", "ons", "userC", "Andsi", "mp_le", "个话题", "charC", "93a5b", "reque", "openM", "stand", "ReHLG", "inter", "ing", "width", "url", "get", "]成功", "zed", "jiQPh", "metho", "sort", "repla", "EkiWW", "readA", "eryUs", "taskI", "auth", " CPU ", "xhibi", "aster", "EhbGT", "ticip", "versi", "ount", "ysexJ", "PkTop", "离目标时间", "指定了de", "WooOH", "vvXJj", "cZKeL", "05.1.", "iSBlC", "16380", "topic", "fPdQQ", "afxcy", "579393BEkUmD", "数失败[", "phone", "，最新脚本", "GphHX", "36ipHKIT", "]: ", "SaFot", "189NzPZdZ", "共找到", "Conne", "debug", "heigh", "zCexJ", "54137", "ercdn", "filte", "nNoti", "taskS", "2ufyrbD", "rkCEi", "joinP", ".json", "List", "面失败[", "pageN", "wait", "dtyyy", "ng#CZ", "odeAt", "Timeo", "AabEe", "ion", "ngong", "lates", "励失败[", "GET", "conti", "nProp", "天签到抽奖", "]奖励成功", "ejia#", "话题PK失", "log", "领取气泡奖", "bble/", "hasOw", "mList", "sendN", "coinN", "rnrzN", "进入签到页", "dUTht", "PPWbt", "wRedi", "isWin", "剩余奖池的", " 需要手动", "ping.", "er_op", "ECT", "getAl", "eoaax", "taskT", "query", "Caaga", "yltNh", "Key", "sms/c", "dLogi", "floor", "_id: ", "782bd", ")，重试第", "er.cn", "key", "VBcFI", "start", "ityNu", "xoQbB", "f86f9", "IAmbk", "HIAMe", "ACY_S", "ng.ne", "wait_", "idcod", "Msg", "timeo", "zWrZO", "YetPC", "|2|3|", "ointm", "ceNo", "bRGHh", "_CONN", "登录成功", "太平通", "yStr", "随机分配d", "igSLm", "limit", "DownC", "terAn", "f21ed", "个可领取的", "/news", "heade", "打开一次A", "_task", "conds", "奖励了", "]请求超时", "择错误", "it_in", "KlhRG", "====", "QuRqN", "]请求错误", "leId", "mPatt", "read_", "ivity", "otify", "map", "vHHej", "xHCrM", "dlriQ", "://ec", "rojec", "error", "com", "cpRSC", "t/api", "QfVWe", "respo", "mber", "sourc", "get_t", "mit", "count", "NShAh", "zTTYF", "gify", "cell", "epot/", "toStr", "未参与且有", "y-age", "天抽奖失败", "hPups", "g/get", "ftHjH", "tNEUG", "sms/d", "index", "fc735", "2 lik", "GmPqc", "查询抽奖次", "taipi", " 推送 =", "0 (iP", "artic", "com/s", "giftB", "FIhDR", "chann", "YZtok", "dFlag", "icApp", "oBaei", "total", "ery", "final", "value", "https", "ntInf", "秒,开始等", "lotte", "qwHhh", "BNmlW", "devic", "gap_i", "inclu", "nth", "nLine", "\n====", "conca", "form", "sCode", "nueDa", "oldCo", "jNXWJ", "查询任务失", "录下是否有", "]失败[", "messa", "Upmgd", "userT", "m/cam", "iness", "UJjqK", "励: ", "is_bl", "现在运行的", " Geck", "WuiQm", "SjMbZ", "26a01", "orm", "NJRwI", "SSL_O", "yFlag", "MM-dd", "exitN", "脚本版本是", "userL", "catch", "ction", "=====", "BIOS", "]返回[", "_code", "://le", "4|5|7", "页文章失败", "TVZXK", "92569", "HTML,", "it_ah", "rSwGW", "rando", "get_p", "coinI", "ormat", "m/inf", "b7ab2", "dNoti", "]没有阅读", "rewar", "e OS ", "天抽奖成功", "vRKgX", "]错误[", "getMo", "strin", "zeGHb", "cFvdh", "XUIjp", "lient", "exten", "ionms", "oldPa", "c21ef", "91322", "tVers", "c141a", "t/val", "e_id", "ZMOQj", "/leaf", "got_c", "cance", "match", "xxxxx", "ition", ":ss", "OtwFq", "1063531ReQzYW", "文章[", "retry", "完成任务[", "commo", "dsukM", "fmt", "city", "ityCo", "-prox", "push", "iPhon", "ad/go", "-----", "OSSoJ", "evice", "toUpp", "eOpti", "Coin", "KEuhc", "ount/", "ask/l", "hone;", "cec80", "DaJuT", "ind", "RPGSR", "/user", "yyyy-", "KHT", "terva", "lt_wa", "time", "vice_", "hyYJS", "abcde", "qGYJJ", "88b8e", "get_a", "refix", "账号[", "读取推送依", "git/b", "ms)，重", "token", "jNUay", "nAnds", "eTopi", "getSe", "defau", "ailyS", "acces", "cczQA", "nId", "ng.co", "getDa", "签到成功:", "Mozil", "请重新登录", "_out", "TDJBR", "nfoV2", "e/sha", "i/act", "copy", "coupo", "YthHo", "rty/t", "jAMmw", "nxAbh", "it_li", "taskL", "dQoek", "post", ":ss.S", "NAsQH", "5e568", "lAgUN", "ox/ap", "tatus", "activ", "FAecy", "HhOnZ", "oinIn", "min", "个账号", "1544d", "valid", "o) Mo", "Kit/6", "rticl", "Code", "tionT", "VPMqg", "未知状态[", "msg", "gold", "jHLEM", "397730IIBMoQ", "platf", "登录失败[", "请求[", "json", "llise", "lize_", "charA", "篇文章", "wtUWF", "NGSjR", "tUnau", "ent/s", "fxnNl", "pwUlk", "6136280ZEMMBq", "iftBa", "jbaFd", "] ---", "阅读文章[", "54105", "ityco", "erty", "ubJCt", "oupon", "开始阅读文", "VphMD", "eBDqU", "mesta", "erCas", "rect", "Time", "third", "exhib", "red-d", "lengt", "xyzOU", "/code", "153f4", "领取任务[", "2629857WzfhMd", "UserP", "izxaw", "P_LEG", "nts", "hPara", "10013", "getFu", "，共运行了", "lt_ti", "ants", "event", "eOrga", "parse", "WabvZ", "./sen", "WOaOA", " like", "_in", "008", "cUWlz", "padSt", "ign/g", "1143d", "getHo", "score", "|5|7|", "terDa", "urs", "gSTAK", "finis", "fbHUB", "sms/t", "QGfMk", "12LBLVzz", "QUCRJ", "nse", "joinW", "pop", "task_", "unkno", "VlhTV", "subst", "YjORu", "15 (K", "split", "89f54", "env", "mStri", "crypt", "ustom", "5056601lIFCQm", "QPoJb", "statu", "VHEnH", "myRNF", "tEPjZ", "Accou", "ent/e", "nt/#/", "ask/f", "ticke", "lob/m", "ist", "nterv", "assig", "objec", "ntegr", "lFdkC", "sKey", "m/tpt", "join", "oLMAu", "thori", "name", ".codi", "goldC", "notif", "iQivz", "54152", "XMvfR", "pageS", "VgJrW", "regis", "JbJqq", "oinBu", "now", "nutes", "sms/g", "file", "JQhYs", "e710d", "择正确", "conte", "mOXQP", "0000", "com/", "MVCVO", "data", "1484320ZxDHlx", "0|2|4", "btwvO", "test", "ack", "norma", "id: ", "resul", "v2/re", "wxMfO", "searc", "rom", "llYea", "fy.js", "e_jso", "leWeb", "MUEkp", "const", "请检查同目", "932", "qgJMb", "andh2", "16382", "xcy/p", "5zlyoSp", "al/qu", "xxx-x", "ask", "userI", "===", "话题PK选", "showm", "keep-", "slice", "，请检查变", " OS X", "yfvOq", "i/acc", ".itai", "code"];
@@ -1005,9 +1011,7 @@ class _0x15ca64 extends _0x31446a {
       console[_0x5c1def(196)](_0x542719);
     }
   }
-  async [_0x433672(352) + _0x433672(686)](_0x28e62e = {}) {
-    const _0x276498 = _0x433672;
-  }
+  async [_0x433672(352) + _0x433672(686)](_0x28e62e = {}) {}
 }
 !(async () => {
   const _0x3f0279 = _0x433672,
@@ -1170,9 +1174,7 @@ function _0x5b30bc(_0x1ee12d) {
       }
     };
   return new class {
-    constructor(_0x3dbfd4) {
-      const _0x1fcf8c = _0x4e47ac;
-    }
+    constructor(_0x3dbfd4) {}
     [_0x4e47ac(196)](_0x8045c, _0x16018b = {}) {
       const _0x47f286 = _0x4e47ac,
         _0x212db6 = {};
